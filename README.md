@@ -6,3 +6,5 @@
     💡 I want to learn more about how to program in Matlab for electroencephalogram data analysis and creation of experiments from paradigms
     🔬 You can take a look at my research on ORCID, ResearchGate and Google Scholar
     📫 How to reach me? Connect with me on LinkedIn or send me an e-mail: garciamontesjosemartin@gmail.es
+
+    🐶 If it were an animal, I know it would be a greyhound.
